@@ -2,8 +2,8 @@ package controller.usedgoods;
 
 public class NewUsedGoodsCommand {
 
-	private String memberId;
-	private String memebrPasswd;
+	private int u_id;
+	private String memberPasswd;
 	private String title;
 	private String content;
 	private Date date;
@@ -11,17 +11,17 @@ public class NewUsedGoodsCommand {
 	private String imgUrl;
 	
 	
-	public String getMemberId() {
-		return memberId;
+	public int getU_id() {
+		return u_id;
 	}
-	public void setMemberId(String memberId) {
-		this.memberId = memberId;
+	public void setU_id(int u_id) {
+		this.u_id = u_id;
 	}
-	public String getMemebrPasswd() {
-		return memebrPasswd;
+	public String getMemberPasswd() {
+		return memberPasswd;
 	}
-	public void setMemebrPasswd(String memebrPasswd) {
-		this.memebrPasswd = memebrPasswd;
+	public void setMemberPasswd(String memberPasswd) {
+		this.memberPasswd = memberPasswd;
 	}
 	public String getTitle() {
 		return title;
