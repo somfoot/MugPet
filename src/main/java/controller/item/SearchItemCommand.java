@@ -10,4 +10,6 @@ public class SearchItemCommand {
 	public void setSearchInput(String searchInput) {
 		this.searchInput = searchInput;
 	}
+	
+	//주석
 }
