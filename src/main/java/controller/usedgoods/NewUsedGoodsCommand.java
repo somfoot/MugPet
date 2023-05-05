@@ -54,6 +54,6 @@ public class NewUsedGoodsCommand {
 		this.imgUrl = imgUrl;
 	}
 	
-	//주석달기
+	//주석
 
 }
