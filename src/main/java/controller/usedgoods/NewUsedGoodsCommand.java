@@ -53,5 +53,5 @@ public class NewUsedGoodsCommand {
 	public void setImgUrl(String imgUrl) {
 		this.imgUrl = imgUrl;
 	}
-
+	//주석
 }
