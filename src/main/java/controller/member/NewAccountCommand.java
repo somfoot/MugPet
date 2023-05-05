@@ -1,5 +1,5 @@
 package controller.member;
 
-public class NewMemberCommand {
+public class NewAccountCommand {
 
 }
