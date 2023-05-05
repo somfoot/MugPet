@@ -11,5 +11,5 @@ public class SearchItemCommand {
 		this.searchInput = searchInput;
 	}
 	
-	//주석
+	//주석달기
 }
