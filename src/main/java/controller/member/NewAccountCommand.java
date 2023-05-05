@@ -1,8 +1,8 @@
 package controller.member;
 
-public class NewMemberCommand {
+public class NewAccountCommand {
 	
-	
+	// 오타 수정
 	private String nickname;
 	private String name;
 	private String email;
@@ -12,7 +12,8 @@ public class NewMemberCommand {
 	private String address;
 	
 	
-	public NewMemberCommand(String nickname, String name, String email, String pwd, String checkPwd, String phoneNum,
+	
+	public NewAccountCommand(String nickname, String name, String email, String pwd, String checkPwd, String phoneNum,
 			String address) {
 		super();
 		this.nickname = nickname;
