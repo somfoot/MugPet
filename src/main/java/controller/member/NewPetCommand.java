@@ -6,9 +6,10 @@ public class NewPetCommand {
 	private String species;
 	private String birth;
 	
-	
-	
-	
+	public NewPetCommand() {
+		super();
+	}
+
 	public NewPetCommand(String name, String species, String birth) {
 		super();
 		this.name = name;
