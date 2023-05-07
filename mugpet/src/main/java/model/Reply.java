@@ -52,5 +52,6 @@ public class Reply {
 	public void setCom_id(int com_id) {
 		this.com_id = com_id;
 	}
+
 	
 }

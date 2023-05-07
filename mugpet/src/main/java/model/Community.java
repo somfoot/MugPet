@@ -86,5 +86,4 @@ public class Community {
 		this.u_id = u_id;
 	}
 	
-	
 }
