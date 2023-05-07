@@ -53,5 +53,5 @@ public class Reply {
 		this.com_id = com_id;
 	}
 
-	//주석
+	
 }

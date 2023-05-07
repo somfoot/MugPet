@@ -85,5 +85,5 @@ public class Community {
 	public void setU_id(int u_id) {
 		this.u_id = u_id;
 	}
-	//주석
+	
 }
