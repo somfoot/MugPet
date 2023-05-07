@@ -77,5 +77,5 @@ public class UsedGoods {
 		this.u_id = u_id;
 	}
 	
-	//주석
+	
 }
